@@ -19,10 +19,6 @@
 1) ML Facial recognition to detect mood and suggest songs accordingly
 
 LinkedIn Link :
-
-
-
-
 ### Domain : Data Science
 ### Programming Language : Python
 ### IDE : Jupyter Notebook
