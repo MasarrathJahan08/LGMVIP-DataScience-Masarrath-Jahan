@@ -1,4 +1,4 @@
-# LGMVIP-DataScience-Mohammed-Abdul-Rahman
+# LGMVIP-DataScience-Masarrath Jahan
 
 
 
@@ -28,10 +28,10 @@ https://www.linkedin.com/posts/mohammed-abdul-rahman7_letsgrowmore-letsgrowmore-
 ### Domain : Data Science
 ### Programming Language : Python
 ### IDE : Jupyter Notebook
-### GitHub link : https://lnkd.in/gyF4pr6H
+### GitHub link : 
 
 #letsgrowmore More provides a fantastic platform for enhancing skills and gaining practical experience. I had the opportunity to work on a challenging project that allowed me to showcase my abilities and learn new technologies. The guidance and support from the #letsgrowmore community have been invaluable throughout this journey.
 
- **Copyright (c) 2022 Mohammed Abdul Rahman **
+ **Copyright (c) 2022 Masarrath Jahan **
 
      If you have any Queries or suggestions, feel free to reach out to me.😌🙂
