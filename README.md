@@ -19,8 +19,6 @@
 1) ML Facial recognition to detect mood and suggest songs accordingly
 
 LinkedIn Link :
-https://www.linkedin.com/posts/mohammed-abdul-rahman7_github-abdulrahman788lgmvip-datascience-mohammed-abdul-rahman-activity-7069310487221473281-cYej?utm_source=share&utm_medium=member_desktop
-https://www.linkedin.com/posts/mohammed-abdul-rahman7_letsgrowmore-letsgrowmore-letsgrowmore-activity-7069316071341621250-up--?utm_source=share&utm_medium=member_desktop
 
 
 
@@ -28,8 +26,7 @@ https://www.linkedin.com/posts/mohammed-abdul-rahman7_letsgrowmore-letsgrowmore-
 ### Domain : Data Science
 ### Programming Language : Python
 ### IDE : Jupyter Notebook
-### GitHub link : 
-
+### GitHub link : https://github.com/MasarrathJahan08/LGMVIP-DataScience-Masarrath-Jahan
 #letsgrowmore More provides a fantastic platform for enhancing skills and gaining practical experience. I had the opportunity to work on a challenging project that allowed me to showcase my abilities and learn new technologies. The guidance and support from the #letsgrowmore community have been invaluable throughout this journey.
 
  **Copyright (c) 2022 Masarrath Jahan **
