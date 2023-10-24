@@ -18,7 +18,8 @@
 **More Advanced:**
 1) ML Facial recognition to detect mood and suggest songs accordingly
 
-LinkedIn Link :
+LinkedIn Link :https://www.linkedin.com/feed/update/urn:li:activity:7122672498348818432?utm_source=share&utm_medium=member_desktop
+
 ### Domain : Data Science
 ### Programming Language : Python
 ### IDE : Jupyter Notebook
